@@ -12,13 +12,6 @@
 
 - 🎓 **Education & Background**  
   - 4th-year BSIT dropout (Web & Mobile Development focus)  
-  - Currently enrolled in TESDA’s Web Development NC III program  
-  - Devoted to self-learning PostgreSQL, Supabase, and all things “backend magic”  
-- 🔭 **Currently Building**  
-  - **Psyche-KIC**: A Next.js-powered appointment system for psychologists & clients (hosted on Vercel, backed by Hostinger/MySQL)  
-  - A **Google Maps heatmap integration** for visualizing appointment densities  
-  - A **Yamaha RS100 scrambler** rebuild (4-stroke dreams, carbureted thrills)  
-- 🌍 **Location**  
   - Based in the **Philippines** (UTC+8), fueled by strong coffee, 4L water/day challenges, and a love for long drives  
 
 ---
