@@ -58,7 +58,10 @@ I am a **4th-year Bachelor of Science in Information Technology (BSIT) student**
 
 ## 🚀 Featured Project
 
-### **PSYCHE-KIC**
+### <a href=https://psyche-kic.vercel.app>**PSYCHE-KIC**</a>
+
+
+
 *A Web-based Appointment and Assessment System for Youth Mental Health Support*
 
 - ⚙️ Full-stack **Next.js** application
