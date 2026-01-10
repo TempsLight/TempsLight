@@ -2,7 +2,7 @@
 **TempsLight/TempsLight** is a ✨ special ✨ repository because its README appears on your GitHub profile.
 -->
 
-# 👋 Hi, I’m Mark Angelo — aka *Temps Light*
+# 👋 Hi, I’m Mark Angelo
 
 **4th-Year BSIT Student | Aspiring Web & Mobile Developer | OJT-Seeker**
 
@@ -18,7 +18,7 @@ I am a **4th-year Bachelor of Science in Information Technology (BSIT) student**
   - BSIT – Web & Mobile Development (4th Year, Ongoing)
 - 🔍 **Focus Areas**
   - Full-stack development with **Next.js**
-  - Database design using **PostgreSQL and MySQL **
+  - Database design using **PostgreSQL and MySQL**
   - Modern UI development with **Tailwind CSS & ShadCN UI**
 - 🌏 **Location**
   - Philippines (UTC+8)
@@ -99,6 +99,10 @@ I am a **4th-year Bachelor of Science in Information Technology (BSIT) student**
   <a href="mailto:deguzman.markangelo.b@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
+  
+  <a href="https://linkedin.com/in/mark-angelo-de-guzman-923774358" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 </div>
 
 ---
