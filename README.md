@@ -6,8 +6,6 @@
 
 **4th-Year BSIT Student | Aspiring Web & Mobile Developer | OJT-Seeker**
 
-> _“Building practical systems, clean interfaces, and real-world solutions through code.”_
-
 ---
 
 ## 🧠 About Me
