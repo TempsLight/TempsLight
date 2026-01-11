@@ -72,7 +72,46 @@ I am a **4th-year Bachelor of Science in Information Technology (BSIT) student**
 - 🧩 Prisma ORM (SQLite for development, MySQL/PostgreSQL for production)
 - ☁️ Deployed on **Vercel**
 
-> This project demonstrates my ability to plan, design, and implement a real-world web system as part of my academic and self-driven development work.
+---
+## 🧩 Other Projects
+
+### 💧 **Water Station System (POS & Inventory)**
+
+An intuitive **Point of Sale (POS)** system designed specifically for local water stations, featuring analytics, inventory control, and employee accountability.
+
+**Key Features**
+- 📦 Comprehensive inventory management for water products and supplies
+- 📊 Interactive statistics dashboard with real-time data visualization
+- 🧾 Detailed activity logs to monitor employee actions and performance
+
+**Tech Stack**
+- Next.js
+- SQLite
+- Prisma
+- ShadCN UI
+
+**Remarks**
+- Commissioned project
+- Designed for **local/offline hosting**, ensuring seamless integration with existing infrastructure
+
+---
+
+### 📁 **File Management System**
+
+A centralized document management platform that enables efficient organization, tracking, and retrieval of important files with location-based metadata.
+
+**Key Features**
+- 📝 Full CRUD operations with customizable document fields
+- 🗂️ Category-based organization and file location mapping
+- 🔍 Streamlined document tracking and management
+
+**Tech Stack**
+- Next.js
+
+**Remarks**
+- Commissioned project
+- Designed for **local hosting**
+- Uses **JSON-based file storage** for lightweight data persistence
 
 ---
 
