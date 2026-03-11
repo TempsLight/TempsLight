@@ -12,7 +12,7 @@
 
 I am a **4th-year Bachelor of Science in Information Technology (BSIT) student**, majoring in **Web and Mobile Development**, currently **seeking an On-the-Job Training (OJT) / Internship opportunity** where I can apply my skills and continue learning in a professional environment.
 
-- 🎓 **Education**
+-  **Education**
   - BSIT – Web & Mobile Development (4th Year, Ongoing)
 -  **Focus Areas**
   - Full-stack development with **Next.js**
@@ -23,7 +23,7 @@ I am a **4th-year Bachelor of Science in Information Technology (BSIT) student**
 <!-- 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 [![Temps Light's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TempsLight&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -56,7 +56,7 @@ I am a **4th-year Bachelor of Science in Information Technology (BSIT) student**
 
 ---
 
-## 🚀 Featured Project
+##  Featured Project
 
 ### <a href=https://psyche-kic.vercel.app>**PSYCHE-KIC**</a>
 
