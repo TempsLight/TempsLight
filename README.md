@@ -2,23 +2,23 @@
 **TempsLight/TempsLight** is a ✨ special ✨ repository because its README appears on your GitHub profile.
 -->
 
-# 👋 Hi, I’m Mark Angelo
+# Hi, I’m Mark Angelo
 
 **4th-Year BSIT Student | Aspiring Web & Mobile Developer | OJT-Seeker**
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I am a **4th-year Bachelor of Science in Information Technology (BSIT) student**, majoring in **Web and Mobile Development**, currently **seeking an On-the-Job Training (OJT) / Internship opportunity** where I can apply my skills and continue learning in a professional environment.
 
 - 🎓 **Education**
   - BSIT – Web & Mobile Development (4th Year, Ongoing)
-- 🔍 **Focus Areas**
+-  **Focus Areas**
   - Full-stack development with **Next.js**
   - Database design using **PostgreSQL and MySQL**
   - Modern UI development with **Tailwind CSS & ShadCN UI**
-- 🌏 **Location**
+-  **Location**
   - Philippines (UTC+8)
 <!-- 
 ---
@@ -29,7 +29,7 @@ I am a **4th-year Bachelor of Science in Information Technology (BSIT) student**
 
 ---
 -->
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -64,25 +64,25 @@ I am a **4th-year Bachelor of Science in Information Technology (BSIT) student**
 
 *A Web-based Appointment and Assessment System for Youth Mental Health Support*
 
-- ⚙️ Full-stack **Next.js** application
-- 👥 Role-based dashboards for **psychologists, clients and admins**
-- 🔐 Secure session-based authentication
-- 🧠 Pre-assessment and post-assessment logic
-- 🗺️ Google Maps heatmap for appointment visualization
-- 🧩 Prisma ORM (SQLite for development, MySQL/PostgreSQL for production)
-- ☁️ Deployed on **Vercel**
+-  Full-stack **Next.js** application
+-  Role-based dashboards for **psychologists, clients and admins**
+-  Secure session-based authentication
+-  Pre-assessment and post-assessment logic
+-  Google Maps heatmap for appointment visualization
+-  Prisma ORM (SQLite for development, MySQL/PostgreSQL for production)
+-  Deployed on **Vercel**
 
 ---
-## 🧩 Other Projects
+##  Other Projects
 
-### 💧 **Water Station System (POS & Inventory)**
+###  **Water Station System (POS & Inventory)**
 
 An intuitive **Point of Sale (POS)** system designed specifically for local water stations, featuring analytics, inventory control, and employee accountability.
 
 **Key Features**
-- 📦 Comprehensive inventory management for water products and supplies
-- 📊 Interactive statistics dashboard with real-time data visualization
-- 🧾 Detailed activity logs to monitor employee actions and performance
+-  Comprehensive inventory management for water products and supplies
+-  Interactive statistics dashboard with real-time data visualization
+-  Detailed activity logs to monitor employee actions and performance
 
 **Tech Stack**
 - Next.js
@@ -96,14 +96,14 @@ An intuitive **Point of Sale (POS)** system designed specifically for local wate
 
 ---
 
-### 📁 **File Management System**
+###  **File Management System**
 
 A centralized document management platform that enables efficient organization, tracking, and retrieval of important files with location-based metadata.
 
 **Key Features**
-- 📝 Full CRUD operations with customizable document fields
-- 🗂️ Category-based organization and file location mapping
-- 🔍 Streamlined document tracking and management
+-  Full CRUD operations with customizable document fields
+-  Category-based organization and file location mapping
+-  Streamlined document tracking and management
 
 **Tech Stack**
 - Next.js
@@ -115,25 +115,7 @@ A centralized document management platform that enables efficient organization, 
 
 ---
 
-## 🎯 What I’m Looking For (OJT)
-
-- 🧑‍💻 Web / Software Development Internship
-- 🛠️ Hands-on exposure to real production systems
-- 🤝 Mentorship and collaborative team environments
-- 📈 Opportunities to improve both technical and professional skills
-
----
-
-## 🔮 Career Goals
-
-- Become a well-rounded **Full-stack Web Developer**
-- Strengthen expertise in **Next.js and backend systems**
-- Gain industry experience through **OJT / Internship**
-- Build production-ready applications that solve real problems
-
----
-
-## 📫 Contact Me
+##  Contact Me
 
 <div align="center">
   <a href="mailto:deguzman.markangelo.b@gmail.com">
@@ -147,7 +129,7 @@ A centralized document management platform that enables efficient organization, 
 
 ---
 
-## 🌟 Let’s Connect
+##  Let’s Connect
 
 I’m open to internship opportunities, collaboration, and learning from experienced developers.  
 If you’re looking for a motivated OJT student who enjoys building real systems—let’s talk.
