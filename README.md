@@ -4,7 +4,7 @@
 
 # Hi, I’m Mark Angelo
 
-**4th-Year BSIT Student | Aspiring Web & Mobile Developer**
+**4th-Year BSIT Student | Web & Mobile Developer**
 
 ---
 
