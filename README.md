@@ -10,7 +10,7 @@
 
 ##  About Me
 
-I am a **4th-year Bachelor of Science in Information Technology (BSIT) student**, majoring in **Web and Mobile Development**, currently **seeking an On-the-Job Training (OJT) / Internship opportunity** where I can apply my skills and continue learning in a professional environment.
+I am a **4th-year Bachelor of Science in Information Technology (BSIT) student**, majoring in **Web and Mobile Development**, currently **working as an On-the-Job Training (OJT) Intern at Aljay Agro Industrial Solutions Inc.** where I am applying my skills and gaining hands-on experience in a professional environment.
 
 -  **Education**
   - BSIT – Web & Mobile Development (4th Year, Ongoing)
@@ -19,7 +19,7 @@ I am a **4th-year Bachelor of Science in Information Technology (BSIT) student**
   - Database design using **PostgreSQL and MySQL**
   - Modern UI development with **Tailwind CSS & ShadCN UI**
 -  **Location**
-  - Philippines (UTC+8)
+  - Philippines
 <!-- 
 ---
 
