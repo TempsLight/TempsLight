@@ -131,8 +131,8 @@ A centralized document management platform that enables efficient organization, 
 
 ##  Let’s Connect
 
-I’m open to internship opportunities, collaboration, and learning from experienced developers.  
-If you’re looking for a motivated OJT student who enjoys building real systems—let’s talk.
+I’m currently seeking full-time opportunities where I can contribute, grow, and continue learning from experienced developers.
+If you’re looking for a motivated and dedicated developer who enjoys building real systems—let’s connect.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
