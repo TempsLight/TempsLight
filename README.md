@@ -33,6 +33,7 @@ I am a **4th-year Bachelor of Science in Information Technology (BSIT) student**
 <div align="center">
 
 **Languages & Frameworks**  
+
 <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
@@ -41,10 +42,12 @@ I am a **4th-year Bachelor of Science in Information Technology (BSIT) student**
 
 
 **UI & Styling**  
+
 <img src="https://img.shields.io/badge/Tailwind_CSS-teal?logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/ShadCN_UI-gray?logo=react&logoColor=white" />
 
 **Databases & ORM**  
+
 <img src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-dark?logo=sqlite&logoColor=white" />
