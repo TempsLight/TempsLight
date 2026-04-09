@@ -4,7 +4,7 @@
 
 # Hi, I’m Mark Angelo
 
-**4th-Year BSIT Student | Web & Mobile Developer**
+**Web & Mobile Developer**
 
 ---
 
@@ -12,14 +12,13 @@
 
 I am a **4th-year Bachelor of Science in Information Technology (BSIT) student**, majoring in **Web and Mobile Development**, currently **working as an On-the-Job Training (OJT) Intern at Aljay Agro Industrial Solutions Inc.** where I am applying my skills and gaining hands-on experience in a professional environment.
 
--  **Education**
+**Education**
   - BSIT – Web & Mobile Development (4th Year, Ongoing)
--  **Focus Areas**
-  - Full-stack development with **Next.js**
-  - Database design using **PostgreSQL and MySQL**
-  - Modern UI development with **Tailwind CSS & ShadCN UI**
--  **Location**
-  - Philippines
+    
+**Areas of Expertise**
+  - Full-stack development using Next.js
+  - Database design and management with PostgreSQL and MySQL
+  - Modern UI development utilizing Tailwind CSS and ShadCN UI
 <!-- 
 ---
 
@@ -49,7 +48,6 @@ I am a **4th-year Bachelor of Science in Information Technology (BSIT) student**
 <img src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-dark?logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-blue?logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-blue?logo=prisma&logoColor=white" />
 
 </div>
@@ -66,10 +64,9 @@ I am a **4th-year Bachelor of Science in Information Technology (BSIT) student**
 
 -  Full-stack **Next.js** application
 -  Role-based dashboards for **psychologists, clients and admins**
--  Secure session-based authentication
--  Pre-assessment and post-assessment logic
--  Google Maps heatmap for appointment visualization
--  Prisma ORM (SQLite for development, MySQL/PostgreSQL for production)
+-  Session-based authentication
+-  Leaflet heatmap for appointment visualization
+-  Prisma ORM (NeonDb for database)
 -  Deployed on **Vercel**
 
 ---
@@ -80,9 +77,8 @@ I am a **4th-year Bachelor of Science in Information Technology (BSIT) student**
 An intuitive **Point of Sale (POS)** system designed specifically for local water stations, featuring analytics, inventory control, and employee accountability.
 
 **Key Features**
--  Comprehensive inventory management for water products and supplies
+-  Comprehensive inventory management for products and supplies
 -  Interactive statistics dashboard with real-time data visualization
--  Detailed activity logs to monitor employee actions and performance
 
 **Tech Stack**
 - Next.js
@@ -92,7 +88,7 @@ An intuitive **Point of Sale (POS)** system designed specifically for local wate
 
 **Remarks**
 - Commissioned project
-- Designed for **local/offline hosting**, ensuring seamless integration with existing infrastructure
+- Designed for **single user use and local/offline hosting**, ensuring seamless integration with existing infrastructure
 
 ---
 
