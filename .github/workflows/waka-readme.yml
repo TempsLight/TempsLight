@@ -1,43 +1,48 @@
-name: Waka Readme
+name: Update WakaTime Stats SVG
 
 on:
-  # for manual workflow trigger
-  workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *" # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
+  generate-stats:
     runs-on: ubuntu-latest
+
     steps:
-        # this action name
-      - uses: athul/waka-readme@master # do NOT replace with anything else
-        with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
-          ### meta
-          API_BASE_URL: https://wakatime.com/api # optional
-          REPOSITORY: TempsLight/TempsLight # optional
-          ### content
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          BLOCKS: -> # optional
-          CODE_LANG: typescript # optional
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
-          ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: master # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: TempsLight # optional
-          AUTHOR_EMAIL: deguzman.markangelo.b@gmail.com.com # optional
-          # you can populate email-id with secrets instead
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate SVG from Vercel API
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          mkdir -p wakatime
+          curl -fsSL "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=TempsLight&api_key=$WAKATIME_API_KEY&github_token=$GITHUB_TOKEN" \
+            -o wakatime/stats.svg
+
+      - name: Bump README cache-buster for wakatime/stats.svg (daily)
+        run: |
+          set -euo pipefail
+
+          V="$(date -u +%Y%m%d)"  # changes once per day
+
+          sed -i -E "s#(wakatime/stats\.svg)\?v=[0-9]+#\1?v=$V#g" README.md
+          sed -i -E "s#(wakatime/stats\.svg)(\"|')#\1?v=$V\2#g" README.md
+
+      - name: Commit changes to repo
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add wakatime/stats.svg README.md
+          git diff --cached --quiet && echo "No changes" && exit 0
+
+          git commit -m "Update WakaTime stats SVG (cache-bust v=$(date -u +%Y%m%d))"
+          git push
