@@ -147,7 +147,7 @@ If you’re looking for a motivated and dedicated developer who enjoys building 
 <!--END_SECTION:waka-->
 
 
-<img src="wakatime/stats.svg" height:"320"/>
+<img src="wakatime/stats.svg?v=20260417" height:"320"/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
