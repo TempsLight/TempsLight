@@ -153,7 +153,7 @@ https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=your_wakatim
 &component1_start_day=mo&component1_y_axis=true&component1_y_axis_label=true&component1_hide_legend=true&component1_hide_total=true
 &component2_type=heatmap&component2_start_day=mo&component2_heatmap_color=fcf9f2
 
-<img src="wakatime/stats.svg" height:"320"/>
+<img src="wakatime/stats.svg?v=20260417" height:"320"/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
