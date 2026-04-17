@@ -143,15 +143,9 @@ I’m currently seeking full-time opportunities where I can contribute, grow, an
 If you’re looking for a motivated and dedicated developer who enjoys building real systems—let’s connect.
 
 <!--START_SECTION:waka-->
-https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=your_wakatime_username&api_key=your_api_key&github_token=your_github_token
+
 <!--END_SECTION:waka-->
-https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=your_wakatime_username&api_key=your_api_key
-&components=2
-&title_prefix=_____%27s&border_width=2&border_radius=10&scale=true
-&bg_color=e6ddd8&title_color=fcf9f2&text_color=997967&logo_color=fcf9f2&border_color=ab8c7b
-&component1_scale_value=1.5&component1_type=weekly_avg&component1_chart_type=radar&component1_chart_color=fcf9f2
-&component1_start_day=mo&component1_y_axis=true&component1_y_axis_label=true&component1_hide_legend=true&component1_hide_total=true
-&component2_type=heatmap&component2_start_day=mo&component2_heatmap_color=fcf9f2
+
 
 <img src="wakatime/stats.svg" height:"320"/>
 
