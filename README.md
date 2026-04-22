@@ -4,7 +4,7 @@
 
 # Hi, I’m Mark Angelo
 
-**Web & Mobile Developer**
+**Full Stack Developer**
 
 ---
 
