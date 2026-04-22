@@ -10,11 +10,11 @@
 
 ## About Me
 
-I am a **4th-year Bachelor of Science in Information Technology (BSIT) student**, majoring in **Web and Mobile Development**, currently **working as an On-the-Job Training (OJT) Intern at Aljay Agro Industrial Solutions Inc.** where I am applying my skills and gaining hands-on experience in a professional environment.
+I completed my **Bachelor of Science in Information Technology (BSIT)** with a specialization in **Web and Mobile Development**. I gained hands-on experience building and maintaining web and mobile applications, focusing on modern development tools and solving real-world problems.
 
 **Education**
 
-- BSIT – Web & Mobile Development (4th Year, Ongoing)
+- BSIT – Web & Mobile Development (4th Year, Grad-waiting)
 
 **Areas of Expertise**
 
@@ -143,7 +143,7 @@ I’m currently seeking full-time opportunities where I can contribute, grow, an
 If you’re looking for a motivated and dedicated developer who enjoys building real systems—let’s connect.
 
 <!--START_SECTION:waka-->
-<img src="wakatime/stats.svg?v=20260421" height="320"/>
+<!-- <img src="wakatime/stats.svg?v=20260421" height="320"/> -->
 <!--END_SECTION:waka-->
 
 <p align="center">
