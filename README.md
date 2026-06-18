@@ -63,7 +63,7 @@ I completed my **Bachelor of Science in Information Technology (BSIT)** with a s
 
 ## Featured Project
 
-### <a href=https://psyche-kic.vercel.app>**PSYCHE-KIC**</a>
+### <a href=https://psychee.vercel.app>**PSYCHE-KIC**</a>
 
 _A Web-based Appointment and Assessment System for Youth Mental Health Support_
 
