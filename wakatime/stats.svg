@@ -31,7 +31,7 @@
 <line x1="181.5" y1="141.20588235294116" x2="144.30996521849502" y2="218.43178531600566" stroke="#a7ffbc" stroke-width="0.5"/>
 <line x1="181.5" y1="141.20588235294116" x2="97.93475038441511" y2="160.2791052634824" stroke="#a7ffbc" stroke-width="0.5"/>
 <line x1="181.5" y1="141.20588235294116" x2="114.48587293131172" y2="87.76389933647829" stroke="#a7ffbc" stroke-width="0.5"/>
-<polygon points="181.5,95.74031986460895 225.7686898185384,105.90278026196737 201.15293143738887,145.6915357061622 206.51213767588095,193.14412141092103 144.30996521849502,218.43178531600566 150.98644105797538,148.1704030618775 158.03812647732835,122.49566256528587" fill="#fcf9f2" fill-opacity="0.2" stroke="#fcf9f2" stroke-width="2"/>
+<polygon points="181.5,94.17254182413926 227.29519638701385,104.68543189565402 201.83061873854788,145.84621341032883 206.5121376847106,193.14412142925602 144.30996521849502,218.43178531600566 148.8457751595226,148.65899608404885 157.22909634366263,121.85048256288349" fill="#fcf9f2" fill-opacity="0.2" stroke="#fcf9f2" stroke-width="2"/>
 <text x="181.5" y="43.49159663865544" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#2f9e44">Mon</text>
 <text x="257.8961048583046" y="80.28202171417348" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#2f9e44">Tue</text>
 <text x="276.76438456176675" y="162.94935647095818" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#2f9e44">Wed</text>
@@ -62,7 +62,7 @@
 
                 <text x="263.0652496155849" y="137.99339097776812" font-size="8" text-anchor="start"
                       transform="rotate(77, 263.0652496155849, 137.99339097776812)"
-                      fill="#2f9e44">17m</text>
+                      fill="#2f9e44">16m</text>
       </g>
 <g transform="translate(0, 490.75) scale(1)">
         <text x="40" y="18" font-size="14" fill="#2f9e44" font-family="Calibri" font-weight="bold">
